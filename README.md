@@ -13,7 +13,7 @@ you can see how landmark is detected from this page above.
 
 ### For virtual-tryon:
 #### plotted eye landmarks on the face by harrcascase eye landmarks:
-the face image was sent and after that trained modedl was used to predict the eye landmarks.
+the face image was sent and after that trained model was used to predict the eye landmarks.
 
 ![landmarks](https://github.com/Sameep-Dhakal/virtual_glasses_tryon/blob/master/screenshots/eyes_landmark.png?raw=true)
 
